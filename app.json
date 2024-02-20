@@ -1,7 +1,7 @@
 {
-    "name": "ＱＵＥＥＮ -ＩＺＵＭＩ - V1 WhatsApp Bot",
+    "name": "BUG-BOT",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/vajirabot1/QUEEN-IZUMI-MD",
+    "repository": "https://github.com/Tharusha71881/Trz",
     "logo": "https://telegra.ph/file/ba8ea739e63bf28c30b37.jpg",
     "keywords": [
         "nodejs",
@@ -11,16 +11,6 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
-            "value": "dont want to put session id when you upload cred.json file"
-        },
-        "GITTOKEN": {
-            "description": "Dont change this then not work nonbuttons",
-            "required": true,
-            "value": "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"
-        },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
             "required": true,
